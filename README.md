@@ -1,4 +1,4 @@
-## 🛍️ Human Resources Dashboard
+## 👥 Human Resources Dashboard
 
 This repository contains the Tableau Dashboard for Human Resources Analysis. This is a comprehensive HR Dashboard to analyze human resources data, providing summary views for high-level insights and for in-depth analysis.
 
@@ -6,36 +6,35 @@ This repository contains the Tableau Dashboard for Human Resources Analysis. Thi
 ## 📊 Project Overview
 
 The **HR Dashboard** is designed to:
-- Provide an overview of employee demographics, performance, and department distribution.
+- Provide an overview of **employee demographics**, **performance**, and **department distribution**.
 - Track key metrics like **hiring**, **termination rates**, and **employee performance** across various departments.
-- Provide actionable insights to optimize sales operations.
-- Enable stakeholders to monitor profitability and customer trends in real-time.
+- Visualize demographic breakdowns by **age**, **gender**, **education**, and **performance**.
+- To allow HR teams to quickly identify trends in **hiring**, **performance**, and **salary distribution**, helping **to make informed decisions** for workforce management.
 
 
 ## 🎯 Project Objectives
-- **Monitor sales performance**: Monitor sales and profits across regions and segments.
-- **Monthly trends**: Identify trends and seasonal patterns in sales and profits.
-- **Operational Efficiency**: Analyze shipping methods' efficiency and their impact on sales.
-- **15-day sales forecast**: Provide short-term sales forecasting for better planning.
+- **Analyze workforce demographics** to understand diversity and distribution.
+- **Monitor** employee performance and attrition across departments.
+- **Identify areas** for talent development and workforce planning.
+- **Provide HR with insights** for data-driven decisions on hiring and retention.
 
 
 ## 💡 Key Insights
-- The **Consumer** segment leads with 48% of sales.
-- **West region** has the highest sales at 33%.
-- **Standard Class** dominates in sales by ship mode.
-- The **forecast** shows peak sales in late 2020.
+- **Operations** has the highest number of employees and terminations.
+- The **35-44 age group** makes up the largest portion of the workforce.
+- **Master's degree holders** perform better with higher ratings in the "Excellent" category.
+- **New York** is a key location with a large employee base.
 
 
 ## 📈 Strategic Recommendations
-- **Product Focus**: Explore opportunities in the Furniture and Technology categories as they show strong sales potential, especially in the West and Central regions.
-- **Payment Mode Optimization**: Leverage the popularity of COD and Online payment mode to streamline payment processes.
-- **Geographical Targeting**: Improve shipping options and efficiency in regions with lower sales like the South to boost overall customer satisfaction and sales growth.
-- **Customer Engagement**: Focus on optimizing the Consumer segment since it drives almost half of the sales, by offering promotions and loyalty programs.
+- Focus on **retention strategies** in the Operations department due to high terminations.
+- Expand recruitment efforts targeting the **35-44 age group** for expertise.
+- Invest in **education and skill development** programs, particularly for employees with Bachelor’s degrees.
+- Leverage the **New York workforce** by enhancing talent management in this key location.
 
  
 ## 🛠️ Tools Used
-- **Power BI**: Data visualization and dashboard creation.
-- **Power Query**: Data import and transformation.
+- **Tableau**: Data visualization and dashboard creation.
 
 
 
