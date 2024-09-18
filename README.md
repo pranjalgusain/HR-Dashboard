@@ -1,4 +1,4 @@
-## 👥 Human Resources Dashboard
+## 👥 Human Resources Analysis Project
 
 This repository contains the Tableau Dashboard for Human Resources Analysis. This is a comprehensive HR Dashboard to analyze human resources data, providing summary views for high-level insights and for in-depth analysis.
 
